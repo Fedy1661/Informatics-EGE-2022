@@ -21,7 +21,6 @@ def f(start, x):
     return f(start - 8, x) + f(start // 2, x)
 
 print(f(102, 43) * f(43, 5))
-
 ```
 
 **Ответ:** _8_

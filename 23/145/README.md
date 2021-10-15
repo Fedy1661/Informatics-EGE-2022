@@ -16,11 +16,11 @@
 ```python
 numbers = {}
 
-def f(x, y):
-    if y == 15:
+def f(x, step):
+    if step == 15:
         numbers[x] = True
         return
-    f(x * 2, y + 1), f(x * 2 + 1, y + 1)
+    f(x * 2, step + 1), f(x * 2 + 1, step + 1)
 
 f(1, 0)
 print(len(numbers))

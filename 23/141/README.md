@@ -20,7 +20,7 @@ def f(start, end):
     if start % 3 == 0: return f(start - 2, end)
     return f(start - 2, end) + f(start - start % 3, end)
 
-print(f(23, 3))
+print(f(int('212', 3), int('10', 3)))
 ```
 
 **Ответ:** _86_

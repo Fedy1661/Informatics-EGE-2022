@@ -24,7 +24,6 @@ def f(x, step):
 
 f(3, 0)
 print(len(numbers))
-
 ```
 
 **Ответ:** _377_

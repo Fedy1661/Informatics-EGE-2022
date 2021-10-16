@@ -26,7 +26,6 @@ def numProg(start, x):
     return numProg(start + 1, x) + numProg(start * 2, x) + numProg(start3, x)
 
 print(numProg(3, 9) * numProg(9, 17) * numProg(17, 25))
-
 ```
 
 **Ответ:** _229635_

@@ -42,3 +42,5 @@
 
 **№[133](https://github.com/Fedy1661/Informatics-EGE-2022/tree/main/23/133)** Ответ: _119_
 
+**№[132](https://github.com/Fedy1661/Informatics-EGE-2022/tree/main/23/132)** Ответ: _254_
+

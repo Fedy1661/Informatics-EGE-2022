@@ -3,3 +3,4 @@ venv
 center.py
 data.py
 __pycache__
+answers.json
